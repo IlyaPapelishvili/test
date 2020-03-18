@@ -1,0 +1,36 @@
+{
+	"materics": [
+		{
+			"materic": 	
+				{
+					"name": "Europ",
+					"countres": [
+						{
+							"name": "Belarus",
+							"capital": "Minsk",
+							"population": "9.5 million"
+						},
+						{
+							"name": "Russia",
+							"capital": "Moscow",
+							"population": "144.5 milliom"
+
+						}
+					]
+
+
+				},
+			"materic": 
+			{
+				"name": "Asia",
+				"countres":
+				{ 
+				
+					
+				}
+			}
+		}
+	]
+}
+
+
