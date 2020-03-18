@@ -1,4 +1,10 @@
-#Good time  ## These are the headers ### Another heading  #### And again the heading
+# good time
+
+## These are the headlines.
+
+### Another title
+
+#### Heading again
 
 Paragraphs are created using an empty line. If there are empty lines around the text above and below, then the text turns into a paragraph.
 
