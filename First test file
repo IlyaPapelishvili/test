@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Тест</title>
+</head>
+<body background="1.jpg">
+	<h3>Оценка уровня общительности</h3>
+		<b>
+		<form action="" method="post" onsubmit="Math(this);return false;">
+			<p>1.Вам предстоит ординарная иди деловая встреча. Выбивает ли вас ее ожидание из колеи?</p>
+			<input type="radio" name="a" value="2" checked>Да<br>
+			<input type="radio" name="a" value="0">Нет<br>
+			<input type="radio" name="a" value="1">Иногда<br>
+	
+	
+			<p>2. Вызывает ли у вас смятение и неудовольствие поручение выступить с докладом,сообщением,информацией на каком-либо совещании,собрании или ином мероприятии?</p>
+			<input type="radio" name="b" value="2" checked>Да<br>
+			<input type="radio" name="b" value="0">Нет<br>
+			<input type="radio" name="b" value="1">Иногда<br>
+		
+			<p>3.Не откладываете ли вы визит к врачу до последнего момента?</p>
+			<input type="radio" name="c" value="2" checked>Да<br>
+			<input type="radio" name="c" value="0">Нет<br>
+			<input type="radio" name="c" value="1">Иногда<br>
+		
+			<p>4.Вам предлагают выехать в командировку в город, где вы никогда не бывали. Приложите ли вы максимум усилий, чтобы избежать этой командировки?</p>
+			<input type="radio" name="d" value="2" checked>Да<br>
+			<input type="radio" name="d" value="0">Нет<br>
+			<input type="radio" name="d" value="1">Иногда<br>
+		
+			<p>5. Любите ли вы делиться своими переживаниями с кем бы то ни было?</p>
+			<input type="radio" name="e" value="2" checked>Да<br>
+			<input type="radio" name="e" value="0">Нет<br>
+			<input type="radio" name="e" value="1">Иногда<br>
+	
+			<p>6.Раздражаетесь ли вы, если незнакомый человек на улице обратится к вам с просьбой (показать дорогу, назвать время, ответить на какойто вопрос)?</p>
+			<input type="radio" name="fa" value="2" checked>Да<br>
+			<input type="radio" name="fa" value="0">Нет<br>
+			<input type="radio" name="fa" value="1">Иногда<br>
+		
+			<p>7. Верите ли вы, что существует проблема отцов и детей и что людям разных поколений трудно понимать друг друга?</p>
+			<input type="radio" name="g" value="2" checked>Да<br>
+			<input type="radio" name="g" value="0">Нет<br>
+			<input type="radio" name="g" value="1">Иногда<br>
+		
+			<p>8.Постесняетесь ли вы напомнить знакомому, что он забыл вам вернуть деньги, которые занял несколько месяцев назад?</p>
+			<input type="radio" name="h" value="2" checked>Да<br>
+			<input type="radio" name="h" value="0">Нет<br>
+			<input type="radio" name="h" value="1">Иногда<br>
+		
+			<p>9.В ресторане либо в столовой вам подали явно недоброкачественное блюдо. Промолчите ли вы, лишь рассерженно отодвинув тарелку?</p>
+			<input type="radio" name="i" value="2" checked>Да<br>
+			<input type="radio" name="i" value="0">Нет<br>
+			<input type="radio" name="i" value="1">Иногда<br>
+		
+			<p>10.Оказавшись один на один с незнакомым человеком, вы не вступите с ним в беседу и будете тяготиться, если первым заговорит он. Так ли это?</p>
+			<input type="radio" name="j" value="2" checked>Да<br>
+			<input type="radio" name="j" value="0">Нет<br>
+			<input type="radio" name="j" value="1">Иногда<br>
+		
+			<p>11.Вас приводит в ужас любая длинная очередь, где бы она ни была (в магазине, библиотеке, кассекинотеатра). Предпочитаете ли вы отказаться от своего намерения или встанете в хвост и будете томиться в ожидании?</p>
+			<input type="radio" name="k" value="2" checked>Да<br>
+			<input type="radio" name="k" value="0">Нет<br>
+			<input type="radio" name="k" value="1">Иногда<br>
+		
+			<p>12.Боитесь ли вы участвовать в какой-либо комиссии по рассмотрению конфликтных ситуаций?</p>
+			<input type="radio" name="l" value="2" checked>Да<br>
+			<input type="radio" name="l" value="0">Нет<br>
+			<input type="radio" name="l" value="1">Иногда<br>
+		
+			<p>13.У вас есть собственные сугубо индивидуальные критерии оценки произведений литературы, искусства, культуры, и никаких чужих мнений на этот счет вы не приемлете. Это так?</p>
+			<input type="radio" name="m" value="2" checked>Да<br>
+			<input type="radio" name="m" value="0">Нет<br>
+			<input type="radio" name="m" value="1">Иногда<br>
+		
+			<p>14. Услышав где-либо в кулуарах высказывание явно ошибочной точки зрения по хорошо известному вам вопросу, предпочитаете ли вы промолчать и не вступать в разговор?</p>
+			<input type="radio" name="n" value="2" checked>Да<br>
+			<input type="radio" name="n" value="0">Нет<br>
+			<input type="radio" name="n" value="1">Иногда<br>
+		
+			<p>15.Вызывает ли у вас досаду чья-либо просьба помочь разобраться в том или ином служебном вопросе или учебной теме?</p>
+			<input type="radio" name="o" value="2" checked>Да<br>
+			<input type="radio" name="o" value="0">Нет<br>
+			<input type="radio" name="o" value="1">Иногда<br>
+		
+			<p>16.Охотнее ли вы излагаете свою точку зрения (мнение, оценку) в письменной форме, чем в устной?</p>
+			<input type="radio" name="p" value="2" checked>Да<br>
+			<input type="radio" name="p" value="0">Нет<br>
+			<input type="radio" name="p" value="1">Иногда<br>
+			<input type="submit" value="Готово">
+		</form>
+	</b>
+</body>
+</html>
