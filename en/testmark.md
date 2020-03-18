@@ -1,15 +1,15 @@
 #Good time  ## These are the headers ### Another heading  #### And again the heading
 
-Абзацы создаются при помощи пустой строки. Если вокруг текста сверху и снизу есть пустые строки, то текст превращается в абзац.
+Paragraphs are created using an empty line. If there are empty lines around the text above and below, then the text turns into a paragraph.
 
-Чтобы сделать перенос строки вместо абзаца,
- нужно поставить два пробела в конце предыдущей строки.
+To do line breaks instead of paragraphs,
+ you need to put two spaces at the end of the previous line.
 
--список -список
+-list -list
 
-- и это список
-    - и это список
+- and this is a list
+    - and this is a list
 
-1 список пронумерованный 2 список пронумерованный
+1 numbered list 2 numbered list
 
-> Цитата
+> Quote
